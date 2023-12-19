@@ -24,7 +24,7 @@ Como usuario quiero poder leer los datos del horóscopo.
 - Se pueden usar librerías externas en caso de considerarlo necesario.
 
 ### API
-https://artear.github.io/api-rn/api.json
+[https://artear.github.io/api-rn/api.json](https://artear.github.io/api-rn/api.json)
 
 ## Para la entrega
 - El código debe ser pusheado en un repositorio propio privado, no debe compartirse en otro medio público.
