@@ -30,3 +30,8 @@ Como usuario quiero poder leer los datos del horóscopo.
 - El código debe ser pusheado en un repositorio propio privado, no debe compartirse en otro medio público.
 - Al finalizar el ejercicio darnos acceso al repositorio como se indica en el correo.
 - Se debe entregar un .apk y/o .ipa o archivo para correrlo con Expo.
+
+## Diseños
+![Scroll horizontal](/wireframes/scroll-horizontal.jpeg)
+---
+![Scroll vertical](/wireframes/scroll-vertical.jpeg)
